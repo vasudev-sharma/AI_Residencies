@@ -1,4 +1,4 @@
-# AI_Residencies all around the year
+# AI Residency all around the year
 Amazing list of AI / ML / Deep learning residencies. 
 
 ## Year 2022
