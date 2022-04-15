@@ -4,7 +4,7 @@ Amazing list of AI / ML / Deep learning residencies.
 ## Year 2022
 
 | Name of AI Residency | Link 🔗 | 
-| :--- | :---: | ---: |
+| :--- | :---: |
 | OpenAI Residency | [Link](https://openai.com/blog/openai-residency/) | 
 | META AI Residency  | [Link](https://www.facebookcareers.com/jobs/221246603377392/) |
 | Apple AI Residency | [Link](https://machinelearning.apple.com/updates/aiml-residency-program-application-2022) | 
